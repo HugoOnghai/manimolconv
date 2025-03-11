@@ -13,7 +13,9 @@
 
 ```bash
 pip install manimolconv
+```
 
 ## Importing
 ```python
 from manimolconv import example as mlv
+```
